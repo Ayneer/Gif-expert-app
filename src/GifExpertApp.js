@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import AddCategory from './components/AddCategory';
 import { GifGrid } from './components/GifGrid';
-// import PropTypes from 'prop-types';
 
 const GifExpertApp = () => {
 
@@ -20,9 +19,5 @@ const GifExpertApp = () => {
         </>
     )
 }
-
-// GifExpertApp.propTypes = {
-
-// }
 
 export default GifExpertApp;

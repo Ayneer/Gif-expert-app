@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Grid Item suit test should show the component successfully 1`] = `
+<div
+  className="card animate__animated animate__zoomIn"
+>
+  <img
+    alt="My test title"
+    src="http//test.com"
+  />
+  <p>
+    My test title
+  </p>
+</div>
+`;

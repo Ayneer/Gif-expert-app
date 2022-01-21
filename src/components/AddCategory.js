@@ -7,7 +7,7 @@ const AddCategory = ({ setCategories }) => {
 
     const handleOnSubmit = e => {
         e.preventDefault();
-        if(!newCategory.trim()){
+        if (!newCategory.trim()) {
             alert('Debe escribir una categoria');
             setNewCategory('');
             return;
